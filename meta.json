@@ -1,0 +1,2963 @@
+{
+ "patch": "18.5",
+ "source": "metatft.com/comps",
+ "updated": "2026-10-26T17:11",
+ "comps": [
+  {
+   "id": "vanguard-morgana",
+   "name": "Vanguard Morgana",
+   "tier": "S",
+   "style": "Fast 9",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Vanguard",
+     "count": 4
+    },
+    {
+     "name": "18 Coven",
+     "count": 3
+    },
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Invoker",
+     "count": 2
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Morellonomicon",
+      "Rabadon's Deathcap",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Alune",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Jeweled Gauntlet",
+      "Nashor's Tooth",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Protector's Vow",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "ElderDragon",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Cassiopeia",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Elise",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.11",
+    "winRate": "21.0%",
+    "top4": "55.7%"
+   }
+  },
+  {
+   "id": "invoker-teemo-alistar",
+   "name": "Invoker Teemo Alistar",
+   "tier": "S",
+   "style": "lvl 6",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Invoker",
+     "count": 3
+    },
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Sprykin",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Teemo",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Jeweled Gauntlet",
+      "Spear of Shojin",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Alistar",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "LeBlanc",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Giant Slayer",
+      "Rabadon's Deathcap",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Morellonomicon",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Kobuko",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Veigar",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.18",
+    "winRate": "7.5%",
+    "top4": "58.4%"
+   }
+  },
+  {
+   "id": "vanguard-alune",
+   "name": "Vanguard Alune",
+   "tier": "A",
+   "style": "Fast 9",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Vanguard",
+     "count": 4
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Invoker",
+     "count": 2
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    },
+    {
+     "name": "Florafatalis18",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Alune",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Archangel's Staff",
+      "Blue Buff",
+      "Jeweled Gauntlet"
+     ]
+    },
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Hextech Gunblade",
+      "Morellonomicon",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Gargoyle Stoneplate",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Ivern",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Lillia",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.29",
+    "winRate": "18.3%",
+    "top4": "52.3%"
+   }
+  },
+  {
+   "id": "flora-fatalis-azir",
+   "name": "Flora Fatalis Azir",
+   "tier": "A",
+   "style": "lvl 7",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "Florafatalis18",
+     "count": 2
+    },
+    {
+     "name": "18 Sprykin",
+     "count": 3
+    },
+    {
+     "name": "18 Blackthorn",
+     "count": 2
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Executioner",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Azir",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Guinsoo's Rageblade",
+      "Hextech Gunblade",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Rammus",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Gargoyle Stoneplate"
+     ]
+    },
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Morellonomicon",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Ionic Spark",
+      "Sunfire Cape",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Soraka",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Teemo",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Veigar",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.31",
+    "winRate": "12.2%",
+    "top4": "53.9%"
+   }
+  },
+  {
+   "id": "adaptor-master-yi",
+   "name": "Adaptor Master Yi",
+   "tier": "A",
+   "style": "lvl 7",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Adaptor",
+     "count": 3
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    },
+    {
+     "name": "18 Caustic",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "MasterYi",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Brawler Emblem",
+      "Edge of Night",
+      "Guinsoo's Rageblade"
+     ]
+    },
+    {
+     "name": "KogMaw",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Giant Slayer",
+      "Red Buff",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Nidalee",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Guinsoo's Rageblade",
+      "Jeweled Gauntlet",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Krug",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.33",
+    "winRate": "9.0%",
+    "top4": "54.2%"
+   }
+  },
+  {
+   "id": "rapidfire-kayle",
+   "name": "Rapidfire Kayle",
+   "tier": "A",
+   "style": "lvl 6",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Solar",
+     "count": 3
+    },
+    {
+     "name": "18 Inferno",
+     "count": 3
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Kayle",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Guinsoo's Rageblade",
+      "Jeweled Gauntlet",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Varus",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Lunar Emblem",
+      "Infinity Edge",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Aphelios",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Giant Slayer",
+      "Last Whisper"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Shen",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Leona",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.34",
+    "winRate": "12.4%",
+    "top4": "53.4%"
+   }
+  },
+  {
+   "id": "fae-tristana-sivir",
+   "name": "Fae Tristana Sivir",
+   "tier": "A",
+   "style": "lvl 7",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Fae",
+     "count": 4
+    },
+    {
+     "name": "18 Sprykin",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Hunter",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Tristana",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Giant Slayer",
+      "Guinsoo's Rageblade",
+      "Hextech Gunblade"
+     ]
+    },
+    {
+     "name": "Sivir",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Fae Emblem",
+      "Last Whisper",
+      "Red Buff"
+     ]
+    },
+    {
+     "name": "Rammus",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Lillia",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Adaptive Helm",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Kobuko",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Rakan",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Xayah",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.35",
+    "winRate": "13.6%",
+    "top4": "52.8%"
+   }
+  },
+  {
+   "id": "lunar-aphelios-nidalee",
+   "name": "Lunar Aphelios Nidalee",
+   "tier": "A",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Adaptor",
+     "count": 2
+    },
+    {
+     "name": "18 Inferno",
+     "count": 2
+    },
+    {
+     "name": "18 Invoker",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Aphelios",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Guinsoo's Rageblade",
+      "Kraken's Fury"
+     ]
+    },
+    {
+     "name": "Nidalee",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Infinity Edge",
+      "Spear of Shojin",
+      "Sterak's Gage"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Protector's Vow",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "KogMaw",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Varus",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.36",
+    "winRate": "7.2%",
+    "top4": "54.9%"
+   }
+  },
+  {
+   "id": "adaptor-master-yi-rengar",
+   "name": "Adaptor Master Yi Rengar",
+   "tier": "A",
+   "style": "lvl 7",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Rival",
+     "count": 1
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "18 Adaptor",
+     "count": 2
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "MasterYi",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Quicksilver"
+     ]
+    },
+    {
+     "name": "Rengar",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Guinsoo's Rageblade",
+      "Titan's Resolve"
+     ]
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Evenshroud",
+      "Gargoyle Stoneplate",
+      "Sunfire Cape"
+     ]
+    },
+    {
+     "name": "Nidalee",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Infinity Edge",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Krug",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.36",
+    "winRate": "11.6%",
+    "top4": "53.0%"
+   }
+  },
+  {
+   "id": "spellweaver-veigar",
+   "name": "Spellweaver Veigar",
+   "tier": "A",
+   "style": "lvl 5",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Spellweaver",
+     "count": 4
+    },
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Blackthorn",
+     "count": 2
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "Florafatalis18",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Veigar",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Flora Fatalis Emblem",
+      "Hextech Gunblade",
+      "Jeweled Gauntlet"
+     ]
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Spirit Visage"
+     ]
+    },
+    {
+     "name": "Alistar",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "LeBlanc",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Blue Buff",
+      "Morellonomicon",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Cassiopeia",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "RekSai",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.38",
+    "winRate": "12.7%",
+    "top4": "52.4%"
+   }
+  },
+  {
+   "id": "executioner-sett",
+   "name": "Executioner Sett",
+   "tier": "A",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "Florafatalis18",
+     "count": 2
+    },
+    {
+     "name": "18 Executioner",
+     "count": 3
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Protector's Vow",
+      "Steadfast Heart"
+     ]
+    },
+    {
+     "name": "Ezreal",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Last Whisper",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Ahri",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Morellonomicon",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Soraka",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Rabadon's Deathcap",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Alistar",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yunara",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.39",
+    "winRate": "9.2%",
+    "top4": "53.2%"
+   }
+  },
+  {
+   "id": "elderwood-draven",
+   "name": "Elderwood Draven",
+   "tier": "A",
+   "style": "Fast 9",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Executioner",
+     "count": 2
+    },
+    {
+     "name": "18 Inferno",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "Dravenuniquetrait18",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Draven",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Guinsoo's Rageblade",
+      "Kraken's Fury"
+     ]
+    },
+    {
+     "name": "Ezreal",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Last Whisper",
+      "Spear of Shojin",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Maokai",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Kennen",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Gnar",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Ivern",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Alistar",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.42",
+    "winRate": "18.8%",
+    "top4": "49.4%"
+   }
+  },
+  {
+   "id": "executioner-kha-zix",
+   "name": "Executioner Kha'Zix",
+   "tier": "A",
+   "style": "lvl 7",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "Florafatalis18",
+     "count": 2
+    },
+    {
+     "name": "18 Rival",
+     "count": 1
+    },
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Executioner",
+     "count": 2
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "KhaZix",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Hand Of Justice",
+      "Nashor's Tooth",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Ezreal",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Red Buff",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Executioner Emblem",
+      "Hand Of Justice",
+      "Ionic Spark"
+     ]
+    },
+    {
+     "name": "Soraka",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.43",
+    "winRate": "11.9%",
+    "top4": "51.7%"
+   }
+  },
+  {
+   "id": "invoker-sentinel",
+   "name": "Invoker Sentinel",
+   "tier": "A",
+   "style": "Fast 8",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Invoker",
+     "count": 4
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 4
+    },
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    },
+    {
+     "name": "18 Slayer",
+     "count": 2
+    },
+    {
+     "name": "Aluneuniquetrait18",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Bramble Vest",
+      "Dragon's Claw",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Hextech Gunblade",
+      "Morellonomicon",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Brambleback",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Giant Slayer",
+      "Quicksilver"
+     ]
+    },
+    {
+     "name": "Alune",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Invoker Emblem",
+      "Adaptive Helm",
+      "Jeweled Gauntlet"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "KogMaw",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Pebbles",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.48",
+    "winRate": "12.2%",
+    "top4": "50.2%"
+   }
+  },
+  {
+   "id": "invoker-ahri",
+   "name": "Invoker Ahri",
+   "tier": "A",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Invoker",
+     "count": 3
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Ahri",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Invoker Emblem",
+      "Jeweled Gauntlet",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Morellonomicon",
+      "Rabadon's Deathcap",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Protector's Vow",
+      "Protector's Vow",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Krug",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Pebbles",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Karma",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.49",
+    "winRate": "10.7%",
+    "top4": "50.8%"
+   }
+  },
+  {
+   "id": "blossom-karma",
+   "name": "Blossom Karma",
+   "tier": "B",
+   "style": "lvl 5",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Solar",
+     "count": 3
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Karma",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Blue Buff",
+      "Jeweled Gauntlet",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Yunara",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Spear of Shojin",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Sunfire Cape"
+     ]
+    },
+    {
+     "name": "Kayle",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "LeBlanc",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Leona",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.50",
+    "winRate": "12.9%",
+    "top4": "50.8%"
+   }
+  },
+  {
+   "id": "inferno-elder-dragon",
+   "name": "Inferno Elder Dragon",
+   "tier": "B",
+   "style": "Fast 9",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Inferno",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 2
+    },
+    {
+     "name": "18 Apexpredator",
+     "count": 1
+    },
+    {
+     "name": "Dravenuniquetrait18",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "ElderDragon",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Infinity Edge",
+      "Last Whisper",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Draven",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Guinsoo's Rageblade",
+      "Kraken's Fury"
+     ]
+    },
+    {
+     "name": "Maokai",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Kennen",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Jeweled Gauntlet"
+     ]
+    },
+    {
+     "name": "Ivern",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.53",
+    "winRate": "19.1%",
+    "top4": "48.4%"
+   }
+  },
+  {
+   "id": "blossom-ahri-zyra",
+   "name": "Blossom Ahri Zyra",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Fae",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Ahri",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Blue Buff",
+      "Jeweled Gauntlet",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Morellonomicon",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Lillia",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Protector's Vow",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Gnar",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Rakan",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.59",
+    "winRate": "9.8%",
+    "top4": "49.1%"
+   }
+  },
+  {
+   "id": "juggernaut-zyra",
+   "name": "Juggernaut Zyra",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "Juggernaut18",
+     "count": 6
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    },
+    {
+     "name": "18 Summoner",
+     "count": 2
+    },
+    {
+     "name": "18 Zyrauniquetrait",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Archangel's Staff",
+      "Archangel's Staff",
+      "Hextech Gunblade"
+     ]
+    },
+    {
+     "name": "Nidalee",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Archangel's Staff",
+      "Red Buff",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Ionic Spark",
+      "Sunfire Cape"
+     ]
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Crownguard"
+     ]
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Scuttlecrab",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Rakan",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.59",
+    "winRate": "9.7%",
+    "top4": "48.2%"
+   }
+  },
+  {
+   "id": "juggernaut-zyra-amumu",
+   "name": "Juggernaut Zyra Amumu",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "Juggernaut18",
+     "count": 6
+    },
+    {
+     "name": "18 Hunter",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    },
+    {
+     "name": "18 Summoner",
+     "count": 2
+    },
+    {
+     "name": "18 Maokai Uniquetrait",
+     "count": 1
+    },
+    {
+     "name": "18 Zyrauniquetrait",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Archangel's Staff",
+      "Archangel's Staff",
+      "Hextech Gunblade"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Sivir",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Red Buff",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Maokai",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Ashe",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Scuttlecrab",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.59",
+    "winRate": "11.3%",
+    "top4": "48.1%"
+   }
+  },
+  {
+   "id": "lunar-lillia",
+   "name": "Lunar Lillia",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Elderwood",
+     "count": 5
+    },
+    {
+     "name": "18 Lunar",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Fae",
+     "count": 2
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Lillia",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Gargoyle Stoneplate",
+      "Protector's Vow"
+     ]
+    },
+    {
+     "name": "Aphelios",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Giant Slayer",
+      "Infinity Edge",
+      "Red Buff"
+     ]
+    },
+    {
+     "name": "Alune",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Jeweled Gauntlet",
+      "Morellonomicon",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Gnar",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Alistar",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Xayah",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.60",
+    "winRate": "10.6%",
+    "top4": "48.4%"
+   }
+  },
+  {
+   "id": "inferno-akali",
+   "name": "Inferno Akali",
+   "tier": "B",
+   "style": "lvl 5",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Solar",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Inferno",
+     "count": 2
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 2
+    },
+    {
+     "name": "18 Slayer",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Akali",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Infinity Edge"
+     ]
+    },
+    {
+     "name": "Camille",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Hand Of Justice",
+      "Sterak's Gage"
+     ]
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Steadfast Heart"
+     ]
+    },
+    {
+     "name": "Varus",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Hand Of Justice",
+      "Last Whisper",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Kayle",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Leona",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.60",
+    "winRate": "8.1%",
+    "top4": "49.7%"
+   }
+  },
+  {
+   "id": "executioner-malphite",
+   "name": "Executioner Malphite",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Summoner",
+     "count": 3
+    },
+    {
+     "name": "Florafatalis18",
+     "count": 2
+    },
+    {
+     "name": "18 Executioner",
+     "count": 3
+    },
+    {
+     "name": "18 Blackthorn",
+     "count": 2
+    },
+    {
+     "name": "18 Inferno",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Malphite",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Executioner Emblem",
+      "Spear of Shojin",
+      "Void Staff"
+     ]
+    },
+    {
+     "name": "Soraka",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Hextech Gunblade",
+      "Rabadon's Deathcap",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Kennen",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Azir",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.64",
+    "winRate": "8.0%",
+    "top4": "48.0%"
+   }
+  },
+  {
+   "id": "vanguard-aphelios",
+   "name": "Vanguard Aphelios",
+   "tier": "B",
+   "style": "Fast 8",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Vanguard",
+     "count": 4
+    },
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Lunar",
+     "count": 2
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 2
+    },
+    {
+     "name": "18 Slayer",
+     "count": 2
+    },
+    {
+     "name": "18 Summoner",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Aphelios",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Infinity Edge",
+      "Last Whisper"
+     ]
+    },
+    {
+     "name": "Brambleback",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Hand Of Justice",
+      "Quicksilver",
+      "Sterak's Gage"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": [
+      "Needlessly Large Rod"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Zyra",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "MamaBeak",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.64",
+    "winRate": "6.9%",
+    "top4": "48.1%"
+   }
+  },
+  {
+   "id": "juggernaut-caitlyn",
+   "name": "Juggernaut Caitlyn",
+   "tier": "B",
+   "style": "lvl 6",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "Juggernaut18",
+     "count": 6
+    },
+    {
+     "name": "18 Hunter",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Caitlyn",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Guinsoo's Rageblade",
+      "Hextech Gunblade",
+      "Kraken's Fury"
+     ]
+    },
+    {
+     "name": "Sivir",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Infinity Edge",
+      "Last Whisper",
+      "Red Buff"
+     ]
+    },
+    {
+     "name": "Scuttlecrab",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Dragon's Claw",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Dragon's Claw",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Rakan",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.69",
+    "winRate": "7.3%",
+    "top4": "47.5%"
+   }
+  },
+  {
+   "id": "rapidfire-kayle-xayah",
+   "name": "Rapidfire Kayle Xayah",
+   "tier": "B",
+   "style": "lvl 6",
+   "difficulty": "Medium",
+   "traits": [
+    {
+     "name": "18 Solar",
+     "count": 3
+    },
+    {
+     "name": "18 Elderwood",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "18 Fae",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Kayle",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Fae Emblem",
+      "Guinsoo's Rageblade",
+      "Jeweled Gauntlet"
+     ]
+    },
+    {
+     "name": "Xayah",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Giant Slayer",
+      "Infinity Edge",
+      "Last Whisper"
+     ]
+    },
+    {
+     "name": "Ornn",
+     "cost": 1,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": [
+      "Gargoyle Stoneplate",
+      "Spirit Visage",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Hecarim",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Leona",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Rakan",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.70",
+    "winRate": "11.7%",
+    "top4": "46.5%"
+   }
+  },
+  {
+   "id": "lunar-aphelios",
+   "name": "Lunar Aphelios",
+   "tier": "B",
+   "style": "Fast 9",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "18 Solar",
+     "count": 3
+    },
+    {
+     "name": "18 Lunar",
+     "count": 3
+    },
+    {
+     "name": "18 Defender",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "18 Rapidfire",
+     "count": 2
+    },
+    {
+     "name": "18 Spellweaver",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Aphelios",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Deathblade",
+      "Giant Slayer",
+      "Guinsoo's Rageblade"
+     ]
+    },
+    {
+     "name": "Alune",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Blue Buff",
+      "Jeweled Gauntlet",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Maokai",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Dragon's Claw",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Diana",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Fiddlesticks",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Kayle",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Sejuani",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Leona",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.73",
+    "winRate": "10.3%",
+    "top4": "45.5%"
+   }
+  },
+  {
+   "id": "blossom-sett",
+   "name": "Blossom Sett",
+   "tier": "B",
+   "style": "Fast 9",
+   "difficulty": "Hard",
+   "traits": [
+    {
+     "name": "Juggernaut18",
+     "count": 4
+    },
+    {
+     "name": "18 Blossom",
+     "count": 3
+    },
+    {
+     "name": "18 Brawler",
+     "count": 2
+    },
+    {
+     "name": "18 Hunter",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    },
+    {
+     "name": "18 Greenfather",
+     "count": 1
+    }
+   ],
+   "units": [
+    {
+     "name": "Sett",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Bramble Vest",
+      "Gargoyle Stoneplate",
+      "Warmog's Armor"
+     ]
+    },
+    {
+     "name": "Ashe",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Last Whisper",
+      "Red Buff",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Sivir",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Blue Buff",
+      "Infinity Edge",
+      "Striker's Flail"
+     ]
+    },
+    {
+     "name": "Gnar",
+     "cost": 5,
+     "star": 2,
+     "items": [
+      "Bloodthirster"
+     ]
+    },
+    {
+     "name": "Ivern",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Maokai",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Amumu",
+     "cost": 4,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Yorick",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.74",
+    "winRate": "9.7%",
+    "top4": "45.3%"
+   }
+  },
+  {
+   "id": "invoker-nidalee",
+   "name": "Invoker Nidalee",
+   "tier": "C",
+   "style": "Fast 8",
+   "difficulty": "Easy",
+   "traits": [
+    {
+     "name": "18 Invoker",
+     "count": 4
+    },
+    {
+     "name": "Riftbeast18",
+     "count": 3
+    },
+    {
+     "name": "18 Adaptor",
+     "count": 2
+    },
+    {
+     "name": "Juggernaut18",
+     "count": 2
+    },
+    {
+     "name": "Primal18",
+     "count": 2
+    },
+    {
+     "name": "18 Vanguard",
+     "count": 2
+    }
+   ],
+   "units": [
+    {
+     "name": "Nidalee",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Edge of Night",
+      "Infinity Edge",
+      "Spear of Shojin"
+     ]
+    },
+    {
+     "name": "Sentinel",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Crownguard",
+      "Protector's Vow",
+      "Spirit Visage"
+     ]
+    },
+    {
+     "name": "Morgana",
+     "cost": 4,
+     "star": 2,
+     "items": [
+      "Adaptive Helm",
+      "Morellonomicon",
+      "Rabadon's Deathcap"
+     ]
+    },
+    {
+     "name": "Taric",
+     "cost": 5,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "KogMaw",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Vi",
+     "cost": 3,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Scuttlecrab",
+     "cost": 2,
+     "star": 2,
+     "items": []
+    },
+    {
+     "name": "Pebbles",
+     "cost": 1,
+     "star": 2,
+     "items": []
+    }
+   ],
+   "stats": {
+    "avgPlace": "4.76",
+    "winRate": "6.7%",
+    "top4": "46.0%"
+   }
+  }
+ ]
+}
