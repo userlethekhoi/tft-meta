@@ -1,7 +1,7 @@
 {
  "patch": "18.5",
  "source": "metatft.com/comps",
- "updated": "2026-10-26T20:41",
+ "updated": "2026-10-26T20:47",
  "comps": [
   {
    "id": "vanguard-morgana",
@@ -316,8 +316,8 @@
    "stats": {
     "avgPlace": "4.29",
     "pickRate": "0.18",
-    "winRate": "18.3%",
-    "top4": "52.3%"
+    "winRate": "18.4%",
+    "top4": "52.2%"
    }
   },
   {
@@ -1133,7 +1133,7 @@
     "avgPlace": "4.39",
     "pickRate": "0.08",
     "winRate": "9.2%",
-    "top4": "53.2%"
+    "top4": "53.3%"
    }
   },
   {
@@ -1451,7 +1451,7 @@
     }
    ],
    "stats": {
-    "avgPlace": "4.48",
+    "avgPlace": "4.49",
     "pickRate": "0.18",
     "winRate": "13.5%",
     "top4": "49.6%"
@@ -1564,7 +1564,7 @@
    "stats": {
     "avgPlace": "4.49",
     "pickRate": "0.05",
-    "winRate": "12.2%",
+    "winRate": "12.1%",
     "top4": "50.2%"
    }
   },
@@ -3106,7 +3106,7 @@
    "cost": 1,
    "tier": "D",
    "place": "4.87",
-   "win": "7.6%"
+   "win": "7.5%"
   },
   {
    "name": "Camille",
